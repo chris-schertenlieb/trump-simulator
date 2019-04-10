@@ -1,5 +1,16 @@
 # trump-simulator
 
-# We are gonna use this library to make the RNN work. Read the documentation and play around with it.
-# Let me know if you see any issues or anything
-https://github.com/minimaxir/textgenrnn
+# Trump Simulator
+# By Chris Schertenlieb, Sierra Dillivan, and Saxton Stafford
+# CIS 365 Artificial Intellegence Project 3
+# Professor Jared Moore (GVSU)
+
+# code inspired greatly by the textgenrnn library documentation
+# https://github.com/minimaxir/textgenrnn
+
+# run the following before using this code
+# pip install textgenrnn
+# pip install tensorflow
+# and then run 'python test.py' when finished to execute this file
+
+
